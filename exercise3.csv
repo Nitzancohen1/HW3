@@ -1,2 +1,0 @@
-,model,Test score (Accuracy),Train score (Accuracy),Number of trainable parameters,Number of layers,Regularization methods,Number of epochs,Loss function,Optimizer,Embedding Dim
-0,NLP Model,0.8591284155845642,0.8968512415885925,894729,6,Dropout,5,binary_crossentropy,Adam,32
